@@ -1,0 +1,1 @@
+# -Pasta-de-edi-o-de-legendas-Tesseract302-tessdata
